@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "first_section_contents",
+  "info": {
+    "singularName": "first-section-content",
+    "pluralName": "first-section-contents",
+    "displayName": "FirstSectionContent",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "listSectionItens": {
+      "type": "json"
+    },
+    "firstSectionTitle": {
+      "type": "string"
+    },
+    "contentSection": {
+      "type": "string"
+    }
+  }
+}

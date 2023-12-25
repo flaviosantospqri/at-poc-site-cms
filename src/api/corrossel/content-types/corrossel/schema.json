@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "corrossels",
+  "info": {
+    "singularName": "corrossel",
+    "pluralName": "corrossels",
+    "displayName": "corrossel"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstCarrosselData": {
+      "type": "json"
+    },
+    "carrosselTitle": {
+      "type": "string"
+    }
+  }
+}
